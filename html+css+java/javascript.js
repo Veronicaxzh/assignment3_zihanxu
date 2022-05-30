@@ -49,7 +49,7 @@ function checkForm() {
 function submitT() {
     if (checkForm()) {
         alert("Bigo!");
-        window.open('payment2.html');
+        window.open('./html+css+java/payment2.html');
     }
     else {
     }
