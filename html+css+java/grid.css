@@ -50,13 +50,6 @@
         margin-left:20px;
         margin-right:20px;
     }
-    .bodybox .w {
-        width: 380px;
-        height:100px;
-        background: url(../picture/first\ pic.jpg) no-repeat;
-        background-size: cover;
-    
-    }
     /* foot */
     .footer {
         height: 420px;
