@@ -70,7 +70,8 @@
     }
     .brandicon-image{
         float: left;
-        width: 50px;
+        width: 380px;
+        background-image: url(../cart/first\ pic.jpg) no-repeat top center;
         margin-left: 22.5px;
         margin-right: 22.5px;
         margin-top: 10px;
